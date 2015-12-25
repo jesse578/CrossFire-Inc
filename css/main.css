@@ -650,7 +650,7 @@ body.modal-open #wrap{
 }
 
 .price_table_heading{
-  font-size:36px;
+  font-size:26px;
   padding:10px;
   background:#EEE;
 }
@@ -663,7 +663,7 @@ body.modal-open #wrap{
 
 .cost{
   padding:30px;
-  font-size:30px;
+  font-size:20px;
 }
 .cost span{
   font-size:15px;
