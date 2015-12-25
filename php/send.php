@@ -4,8 +4,8 @@ $email = $_POST['email'];
 $message = $_POST['message'];
 $subject = $_POST['subject'];
 
-$to = 'bhattacharyasayan.21@gmail.com';
+$to = 'Jesse@ReachOutSolution.com';
 $message = 'FROM: '.$name.' Email: '.$email.'Message: '.$message;
-$headers = 'From: sayan@reachoutsolution.com' . "\r\n";
+$headers = 'From: Contact@ReachOutSolution.com' . "\r\n";
 
 ?>
