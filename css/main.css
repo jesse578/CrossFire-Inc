@@ -54,7 +54,7 @@ a:focus {
 }
 .title-small {
   font-size: 38px;
-  color: #3f51b5;
+  color: #877F7F;
   margin-bottom: 30px;
   line-height: 50px;
 }
@@ -138,6 +138,11 @@ a:focus {
   -webkit-transition-timing-function: cubic-bezier(0.7, 0, 0.3, 1);
   transition-timing-function: cubic-bezier(0.7, 0, 0.3, 1);
 }
+
+.navbar-inverse.navbar {
+  background-color: teal;
+}
+
 .navbar.menu-wrap .navbar-form {
   padding: 10px 20px;
   margin: 5px 0;
