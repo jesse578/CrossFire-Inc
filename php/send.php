@@ -6,6 +6,6 @@ $subject = $_POST['subject'];
 
 $to = 'Jesse@ReachOutSolution.com';
 $message = 'FROM: '.$name.' Email: '.$email.'Message: '.$message;
-$headers = 'From: Contact@ReachOutSolution.com' . "\r\n";
+$headers = 'From: Contact@CrossFireIncs.com' . "\r\n";
 
 ?>
