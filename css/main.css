@@ -306,10 +306,10 @@ a:focus {
 #why .content .list-item li i {
   font-size: 32px;
   padding-right: 5px;
-  vertical-align: middle;
+  vertical-align: left;
 }
 #why img {
-  float: right;
+  float: left;
 }
 #why .feature-item {
   padding: 48px 0;
