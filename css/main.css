@@ -284,16 +284,21 @@ a:focus {
   color: #fff;
 }
 #why .content h1 {
-  font-size: 50px;
-  line-height: 70px;
+  font-size: 48px;
+  line-height: 68px;
   margin-top: 0;
   font-weight: 100;
 }
 #why .content .list-item li {
-  color: #000033;
+  color: #00FF00;
   line-height: 50px;
   font-size: 18px;
   text-transform: uppercase;
+}  
+#why .content .list-item dd {
+   color: #FFFFFF;
+   line-height: 50px;
+   font-size:   12px;
 }
 #why .content .list-item li i {
   font-size: 32px;
