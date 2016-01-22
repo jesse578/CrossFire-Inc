@@ -289,16 +289,19 @@ a:focus {
   margin-top: 0;
   font-weight: 100;
 }
+#why .content b {
+  font-size: 30px;
+}
 #why .content .list-item li {
-  color: #00FF00;
+  color: #3300CC;
   line-height: 50px;
-  font-size: 18px;
+  font-size: 20px;
   text-transform: uppercase;
 }  
 #why .content .list-item dd {
    color: #FFFFFF;
-   line-height: 50px;
-   font-size:   12px;
+   line-height: 5px;
+   font-size:   15px;
 }
 #why .content .list-item li i {
   font-size: 32px;
