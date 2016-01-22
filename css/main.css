@@ -283,14 +283,14 @@ a:focus {
   background-size: cover;
   color: #fff;
 }
-#why .content h2 {
+#why .content h1 {
   font-size: 50px;
   line-height: 70px;
   margin-top: 0;
   font-weight: 100;
 }
 #why .content .list-item li {
-  color: #fff;
+  color: #000033;
   line-height: 50px;
   font-size: 18px;
   text-transform: uppercase;
