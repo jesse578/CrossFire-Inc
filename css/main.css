@@ -290,7 +290,7 @@ a:focus {
   font-weight: 100;
 }
 #why .content b {
-  font-size: 25px;
+  font-size: 20px;
 }
 #why .content .list-item li {
   color: #330099;
@@ -300,7 +300,7 @@ a:focus {
 }  
 #why .content .list-item dd {
    color: #FFFFFF;
-   line-height: 10px;
+   line-height: 30px;
    font-size:   15px;
 }
 #why .content .list-item li i {
