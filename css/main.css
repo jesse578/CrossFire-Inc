@@ -290,7 +290,7 @@ a:focus {
   font-weight: 100;
 }
 #why .content b {
-  font-size: 30px;
+  font-size: 25px;
 }
 #why .content .list-item li {
   color: #3300CC;
@@ -299,8 +299,8 @@ a:focus {
   text-transform: uppercase;
 }  
 #why .content .list-item dd {
-   color: #FFFFFF;
-   line-height: 5px;
+   color: #330099;
+   line-height: 8px;
    font-size:   15px;
 }
 #why .content .list-item li i {
